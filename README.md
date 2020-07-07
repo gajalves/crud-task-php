@@ -21,16 +21,30 @@ CRUD, build with **PHP7, Bootstrap and MySQl.**
 #### Home
 
 <h1 align="center">
-  <img src="./images/home.png" alt="php" width="420">
+  <img src="./images/home.png" alt="home" width="500">
 </h1>
 
 #### Criar Tarefa
 
+<h1 align="center">
+  <img src="./images/create.png" alt="create" width="500">
+</h1>
+
 #### Ver Tarefas
+
+<h1 align="center">
+  <img src="./images/read.png" alt="read" width="500">
+</h1>
 
 #### Editar Tarefa
 
-## BD
+<h1 align="center">
+  <img src="./images/update.png" alt="update" width="500">
+</h1>
+
+## DB
+
+PDO set up **connection.php**.
 
 ```sql
 create table tb_status(
